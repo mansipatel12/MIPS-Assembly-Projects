@@ -1,2 +1,2 @@
 # MIPS-Assembly-Projects
-The MIPS-Assembly-Projects repository will hold the projects I created in my Computer Architecture course using the MIPS assembly language. These projects were created in the fall of 2021. 
+The MIPS-Assembly-Projects repository will hold the projects I created in my Computer Architecture course using the MIPS assembly language. The programs were created in the fall of 2021. To run the programs, the Mars application must be downloaded to access full capabilities. Here is the link to download Mars: MIPS Assembly Simulator: http://courses.missouristate.edu/kenvollmar/mars/download.htm
